@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "store_privateKey",
+  "googleClientID": "google_ID",
+  "googleClientSecret": "google_Secret",
+  "facebookClientID": "facebook_ID",
+  "facebookClientSecret": "facebook_Secret",
+  "GCLOUD_PROJECT_ID": "clodProjectID",
+  "GCLOUD_APPLICATION_CREDENTIALS": "cloudAppCred",
+  "GCLOUD_STORAGE_BUCKET_URL": "cloudBucketURL",
+  "pagerllave": "paystackPublicKey",
+  "DATABASEURL": "mongoURL"
+}
